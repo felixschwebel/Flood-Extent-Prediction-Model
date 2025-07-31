@@ -9,5 +9,3 @@ rasterio~=1.4.3
 matplotlib~=3.10.3
 scipy~=1.16.0
 scikit-image~=0.25.2
-whitebox~=2.3.6
-pysheds~=0.4
